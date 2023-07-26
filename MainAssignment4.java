@@ -1,4 +1,5 @@
 import java.util.Scanner;
+import java.util.ArrayList;
 
 public class MainAssignment4 {
     public static void main(String[] args) {
@@ -250,7 +251,7 @@ public class MainAssignment4 {
          */
 
 //        9. Write a program that places the odd elements of an array before the even elements.
-        /*int[]array={2,3,40,1,5,9,4,10,7};
+       /* int[]array={2,3,40,1,5,9,4,10,7};
         ArrayList<Integer> arrayList=new ArrayList<>();
         for(int i =0;i<array.length;i++){
             if(array[i] % 2!=0){
@@ -269,8 +270,10 @@ public class MainAssignment4 {
             }
         }
         System.out.println(arrayList);
+        
+        */
 
-         */
+
 
 //        10. Write a program that test the equality of two arrays.
            /* int[] array={2,3,6,6,4};
